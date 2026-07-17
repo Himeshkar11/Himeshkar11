@@ -14,9 +14,9 @@
 <br/><br/>
 
 <a href="mailto:himeshkarm0111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/yourhandle"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://instagram.com/yourhandle"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="www.linkedin.com/in/himeshkar-mallikarai-18b7a7336"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/himeshkar11/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://instagram.com/kyo_ronin_me"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 </div>
 
@@ -94,16 +94,47 @@ Dream:       Software Engineer in Japan 🇯🇵
 
 ## 🏆 Current Goals
 
-<div align="center">
+<table>
+<tr>
+<td width="55%">
 
-| Goal | Status |
-|---|:---:|
-| Complete Kunal Kushwaha DSA Course | ✅ |
-| Reach 300+ LeetCode Problems | 🔄 |
-| Learn AI / ML Fundamentals | 🔄 |
-| Build More Full-Stack Projects | 🔄 |
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│    _   _ _                           _                       │
+│   | | | (_)_ __ ___   ___  ___| |__                    │
+│   | |_| | | '_ ` _ \ / _ \/ __| '_ \                   │
+│   |  _  | | | | | | |  __/\__ \ | | |                  │
+│   |_| |_|_|_| |_| |_|\___||___/_| |_|                  │
+│                                                              │
+├──────────────────────────────────────────────────────────────┤
+│ 👤 Name        : Himesh                                      │
+│ 🎓 Role        : B.Tech CSE Student                          │
+│ 📍 Location    : Tirupati, Andhra Pradesh 🇮🇳               │
+│ 💻 Focus       : Full-Stack Development + AI & ML            │
+│ ☕ Languages   : Java, Python, JavaScript, TypeScript        │
+│ 🌐 Web         : HTML • CSS • Flask • SQLite                 │
+│ 📚 Learning    : Java DSA (Kunal Kushwaha)                   │
+│ 🔥 LeetCode    : Working towards 300+ Problems               │
+│ 🚀 Current     : Building Projects & Improving Daily         │
+│ 🇯🇵 Dream       : Software Engineer in Japan                 │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
 
-</div>
+</td>
+
+<td width="45%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Himeshkar11&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Himeshkar11&theme=tokyonight&hide_border=true"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
