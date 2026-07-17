@@ -1,16 +1,52 @@
-## Hi there 👋
+================================================
 
-<!--
-**Himeshkar11/Himeshkar11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+          Banner
 
-Here are some ideas to get you started:
+👋 Hi I'm Himesh
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🇮🇳 India
+🎓 CSE Student
+🤖 AI & ML Enthusiast
+☕ Java Developer
+🐍 Python Developer
+📚 DSA (200+ Problems Goal)
+🇯🇵 Dream: Software Engineer in Japan
+
+------------------------------------------------
+
+🚀 Featured Projects
+• GrindOS
+• DSA-JAVA
+• Python Notes
+• ClassMate
+
+------------------------------------------------
+
+🛠 Tech Stack
+
+(Java icons)
+
+------------------------------------------------
+
+📊 GitHub Stats
+
+(Streak)
+
+(Activity Graph)
+
+(Trophies)
+
+------------------------------------------------
+
+🏆 Current Goals
+
+✔ Complete Kunal Kushwaha DSA
+✔ Reach 300+ LeetCode Problems
+✔ Learn AI/ML
+✔ Build More Full-Stack Projects
+
+------------------------------------------------
+
+🐍 Snake Animation
+
+================================================
